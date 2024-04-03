@@ -1,0 +1,61 @@
+body {
+  background-color: beige;
+}
+.first-name {
+  font-size: 25px;
+}
+
+/* input */
+
+.input-1 {
+  height: 30px;
+  width: 700px;
+  margin-left: 200px;
+  margin-top: 10px;
+}
+.input-2 {
+  height: 100px;
+  width: 700px;
+  margin-left: 200px;
+  margin-top: 10px;
+}
+.input-3 {
+  height: 30px;
+  width: 700px;
+  font-size: 18px;
+  margin-left: 200px;
+  margin-top: 30px;
+}
+
+/* gender */
+
+.gender-1 {
+  margin-left: 200px;
+  font-size: 20px;
+}
+.gender-2 {
+  margin-left: 10px;
+}
+.Qualification{
+ margin-left: 200px;
+}
+.Specialization{
+    margin-left: 200px;
+ margin-top: 10px;
+}
+
+/* button */
+
+#demo{
+    height: 50px;
+    width: 150px;
+    font-size: 24px;
+    margin-left: 20px;
+    margin-top: 10px;
+    background-color: rgb(12, 185, 12);
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+
